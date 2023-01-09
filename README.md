@@ -68,18 +68,15 @@ module FlappyBird(
 `Bird_Position` 表示現在Bird row位置
 `Star_count` 是在吃到無敵星星後用來計算無敵時間的
 
+`DATA_R->底板33~40`
+`DATA_G->底板41~48`
+`DATA_B->底板81~88`
+`LED_COMM->底板73~76`
+`seg_output->底板25~31`
+`seg_COMM->底板17~20`
+`Star_indication->21`
+`Bird_Jump->77`
+`reset->78`
 
-*** 請說明各 I/O 變數接到哪個 FPGA I/O 裝置，例如: button, button2 -> 接到 4-bit SW
-
-DATA_R->底板33~40
-DATA_G->底板41~48
-DATA_B->底板81~88
-LED_COMM->底板73~76
-seg_output->底板25~31
-seg_COMM->底板17~20
-Star_indication->21
-Bird_Jump->77
-reset->78
-*** 請加強說明程式邏輯
 
 
