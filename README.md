@@ -70,6 +70,7 @@ module FlappyBird(
 
 
 *** 請說明各 I/O 變數接到哪個 FPGA I/O 裝置，例如: button, button2 -> 接到 4-bit SW
+
 *** 請加強說明程式邏輯
 
 
