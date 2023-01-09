@@ -19,6 +19,7 @@
 
 
 * LED陣列:用來顯示是否獲得無敵星星效果
+![S__41558030](https://user-images.githubusercontent.com/122210192/211287654-26ec006f-cce2-4502-a9ba-9170dd5df7f3.jpg)
 
 
 #### 功能說明:<br>
