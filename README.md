@@ -1,7 +1,7 @@
 # 此為 NCNU FPGA 期末專案 github readme 檔案範例:memo:
 
 # FPGA-project-1
-### Authors:109321067 110321008 110321010 
+### Authors:109321067黃世昕 110321008張瑞恩 110321010張庭綸 
 
 #### Input/Output unit:<br>
 * 8x8LED矩陣，用來顯示鳥闖關遊戲畫面，分為按下reset的初始畫面、闖關畫面及死亡畫面 
