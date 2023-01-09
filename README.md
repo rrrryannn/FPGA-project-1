@@ -68,6 +68,8 @@ module FlappyBird(
 `Bird_Position` 表示現在Bird row位置
 `Star_count` 是在吃到無敵星星後用來計算無敵時間的
 
+
+#### 變數->FPGA底板:<br>
 `DATA_R->底板33~40`
 `DATA_G->底板41~48`
 `DATA_B->底板81~88`
