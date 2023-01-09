@@ -5,14 +5,18 @@
 
 #### Input/Output unit:<br>
 * 8x8LED矩陣，用來顯示鳥闖關遊戲畫面，分為按下reset的初始畫面、闖關畫面及死亡畫面 
-  reset:
-  
-  闖關:
-  
-  死亡:
- 
+
+  * reset:
+  ![S__41558025](https://user-images.githubusercontent.com/122210192/211285088-90134631-90bc-49a6-a26b-0b82a0dbb1e2.jpg)
+  * 闖關:
+  ![S__41558026](https://user-images.githubusercontent.com/122210192/211285186-1f4da61f-4548-451b-b5dd-6f6be343b17d.jpg)
+  * 死亡:
+  ![S__41558022](https://user-images.githubusercontent.com/122210192/211285226-0f886add-5003-4f91-8c8e-2b5b11dbc966.jpg)
+
 
 * 七段顯示器:用來計算時間。
+ ![S__41558024](https://user-images.githubusercontent.com/122210192/211285562-53c13885-2944-4a5b-adac-f1e829a8475d.jpg)
+
 
 * LED陣列:用來顯示是否獲得無敵星星效果
 
